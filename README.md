@@ -14,8 +14,6 @@ Visual Studio Code. Ext: Java IDE pack.
 
 
 
-* II [link](https://Andr7st.github.io/index/)
-
-* if
+* [if](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
 * if_else
 * if_else_if
