@@ -1,6 +1,7 @@
 #### Java - Ejercicios básicos.
 
-**Repoid: 000f**
+**Repoid: 000f** <br>
+**RepoName: Andr7st/Java-Exe1**
 
 ![Icono](https://raw.github.com/Andr7st/index/master/img/Logo_java_x64.png?raw=true "Se7")
 ![Icono](https://github.com/Andr7st/index/blob/master/img/Iogo_vscode_x48.png?raw=true "Se7")
