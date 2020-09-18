@@ -10,9 +10,9 @@ Practicando ejercicios básicos de Java y git.
 Visual Studio Code. Ext: Java IDE pack.
 
 
-*  [Conditional: **if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
-* if_else
-* if_else_if
+* [Conditionals: **if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
+* [Conditionals: **if_else**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
+* [Conditionals: **if_else_if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
 
 
 
