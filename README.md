@@ -13,3 +13,13 @@ Visual Studio Code. Ext: Java IDE pack.
 *  [Conditional: **if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
 * if_else
 * if_else_if
+
+
+
+
+ Agradecimientos: [iconos8.es](https://iconos8.es/)
+
+ <br>
+
+ [![IndexLink](https://raw.github.com/Andr7st/index/master/img/Logo_home1_x32.png)](https://github.com/Andr7st/index//)
+###### Andr7st [index](https://github.com/Andr7st/index/).
