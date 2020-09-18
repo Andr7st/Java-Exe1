@@ -12,8 +12,8 @@ Visual Studio Code. Ext: Java IDE pack.
 
 
 * [Conditionals: **if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if.java)
-* [Conditionals: **if_else**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if_else.java)
-* [Conditionals: **if_else_if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e1_if_else_if.java)
+* [Conditionals: **if_else**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e2_if_else.java)
+* [Conditionals: **if_else_if**](https://github.com/Andr7st/Java-Exe1/blob/master/src/Exe1e3_if_else_if.java)
 
 
 
